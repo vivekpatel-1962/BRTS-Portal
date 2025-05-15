@@ -1,6 +1,6 @@
 # 🚌 BRTS Portal Backend
 
-This is a **Backend Project** built using **Java** that provides the core functionality for a Bus Rapid Transit System (BRTS) portal. The project integrates custom data structures, database connectivity, and multithreading for efficient operations.
+This is a **Terminal based Project** built using **Java** that provides the core functionality for a Bus Rapid Transit System (BRTS) portal. The project integrates custom data structures, database connectivity, and multithreading for efficient operations.
 
 ## ✨ Unique Feature
 
