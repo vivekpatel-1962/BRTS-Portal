@@ -25,7 +25,7 @@ This is a **Terminal based Project** built using **Java** that provides the core
 
 1. Clone the repository.
 2. Configure the MySQL database connection in the `DataBaseConnection` class.
-3. Compile and run the `BRTSPortal` class.
+3. Compile and run the `BRTSPortal` class. 
 4. Follow the command-line interface to use the application.
 
 Feel free to explore, extend, or improve the project as needed!
